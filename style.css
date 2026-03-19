@@ -7,8 +7,9 @@ h1{
 }
 
 .persona1{
-   background-color: lightblue;
+   background-color: orange;
    padding: 20px;
+   border-radius: 10px;
 }
 
 .persona2{
